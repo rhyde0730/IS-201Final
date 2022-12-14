@@ -1,0 +1,46 @@
+body {
+    background-color: #c4c4c4;
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+.common {
+    background-color: #c4c4c4;
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+}
+
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 39px; 
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}

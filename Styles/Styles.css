@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    background-color: #c4c4c4;
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+
+}
+
+a {color: rgba(8, 4, 234, 0.905);
+    text-decoration: none;
+}
+
+a:hover {text-decoration: underline;
+        /* font-weight: bold;
+        font-size: 18px; */
+
+}
+
+a:visited {color: rgb(94, 28, 5)}
+
+.ResumeListHeading {
+    font-weight: bold;
+    font-style: normal;}
+
+.Underline {text-decoration: underline;}
+.Bold {font-weight: bold;}
+.Justify {text-align: justify;}
+
+.homebg {background-image: url(../Images/Background_light.jpg);
+        background-position: top right;
+        /* background-repeat: ; */
+    }
+/* Used the box method here to simplify having to add different styles to paragraphs */
+.Box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+
+    /* All these traits can be combined into one attribute 'Background' */
+}
+
+.Box2 {
+    padding: 5px;
+}
+
+.Box3 {
+    Margin: 50px;
+}
+
+
+
